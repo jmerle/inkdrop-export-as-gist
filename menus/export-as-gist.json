@@ -1,0 +1,34 @@
+{
+  "menu": [
+    {
+      "label": "File",
+      "submenu": [
+        {
+          "label": "Export",
+          "submenu": [
+            {
+              "label": "As Public Gist..",
+              "command": "export-as-gist:public"
+            },
+            {
+              "label": "As Private Gist..",
+              "command": "export-as-gist:private"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "context-menu": {
+    ".note-list-item-view": [
+      {
+        "label": "Export As Public Gist..",
+        "command": "export-as-gist:public"
+      },
+      {
+        "label": "Export As Private Gist..",
+        "command": "export-as-gist:private"
+      }
+    ]
+  }
+}
