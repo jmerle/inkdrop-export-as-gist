@@ -16,7 +16,7 @@ ipm install export-as-gist
 
 ## Usage
 
-Before attempting to export note(s), make sure to set a valid personal access token with the `gist` scope in the plugin's settings. You can generate one at [https://github.com/settings/tokens/new](https://github.com/settings/tokens/new).
+Before attempting to export, make sure to set a valid personal access token with the `gist` scope in the plugin's settings. You can generate one at [https://github.com/settings/tokens/new](https://github.com/settings/tokens/new).
 
 ## Changelog
 
