@@ -1,8 +1,8 @@
 {
-  "name": "hello-world",
+  "name": "export-as-gist",
   "version": "0.0.0",
-  "description": "Hello World plugin description",
-  "repository": "https://github.com/jmerle/inkdrop-hello-world",
+  "description": "Export Inkdrop notes as GitHub gists",
+  "repository": "https://github.com/jmerle/inkdrop-export-as-gist",
   "license": "MIT",
   "main": "./src/index",
   "scripts": {
