@@ -35,7 +35,7 @@ function getFilename(noteTitle, currentFiles) {
 
 export async function exportAsGist(isPublic) {
   const { noteListBar, notes } = inkdrop.store.getState();
-  const noteIds = noteListBar.selectedNoteIds;
+  const noteIds = noteListBar.actionTargetNoteIds;
 
   if (noteIds.length === 0 || Object.keys(notes.hashedItems).length === 0) {
     throw new Error('No note(s) selected.');

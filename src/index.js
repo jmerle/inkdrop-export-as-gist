@@ -41,6 +41,7 @@ export const config = {
     description:
       "The token that is used to authenticate with when exporting as a gist. This token needs the 'gist' scope. You can generate one at https://github.com/settings/tokens/new.",
     type: 'string',
+    default: '',
   },
 };
 
