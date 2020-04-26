@@ -1,6 +1,6 @@
 {
   "name": "export-as-gist",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Export Inkdrop notes as GitHub gists",
   "repository": "https://github.com/jmerle/inkdrop-export-as-gist",
   "license": "MIT",
