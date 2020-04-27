@@ -12,7 +12,7 @@ function throwTokenError() {
 function createOctokit() {
   const token = inkdrop.config.get('export-as-gist.token');
 
-  if (token === undefined) {
+  if (token === '') {
     throwTokenError();
   }
 
