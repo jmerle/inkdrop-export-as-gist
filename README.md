@@ -1,6 +1,6 @@
 # Export As Gist plugin for Inkdrop
 
-[![Build Status](https://dev.azure.com/jmerle/inkdrop-export-as-gist/_apis/build/status/Build?branchName=master)](https://dev.azure.com/jmerle/inkdrop-export-as-gist/_build/latest?definitionId=23&branchName=master)
+[![Build Status](https://github.com/jmerle/inkdrop-export-as-gist/workflows/Build/badge.svg)](https://github.com/jmerle/inkdrop-export-as-gist/actions?query=workflow%3ABuild)
 [![Latest release](https://img.shields.io/github/v/release/jmerle/inkdrop-export-as-gist)](https://my.inkdrop.app/plugins/export-as-gist)
 [![License](https://img.shields.io/github/license/jmerle/inkdrop-export-as-gist)](https://github.com/jmerle/inkdrop-export-as-gist/blob/master/LICENSE)
 
