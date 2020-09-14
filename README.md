@@ -1,7 +1,8 @@
 # Export As Gist plugin for Inkdrop
 
 [![Build Status](https://github.com/jmerle/inkdrop-export-as-gist/workflows/Build/badge.svg)](https://github.com/jmerle/inkdrop-export-as-gist/actions?query=workflow%3ABuild)
-[![Latest release](https://img.shields.io/github/v/release/jmerle/inkdrop-export-as-gist)](https://my.inkdrop.app/plugins/export-as-gist)
+[![Latest release](https://inkdrop-plugin-badge.vercel.app/api/version/export-as-gist?style=flat)](https://my.inkdrop.app/plugins/export-as-gist)
+[![Downloads](https://inkdrop-plugin-badge.vercel.app/api/downloads/export-as-gist?style=flat)](https://my.inkdrop.app/plugins/export-as-gist)
 [![License](https://img.shields.io/github/license/jmerle/inkdrop-export-as-gist)](https://github.com/jmerle/inkdrop-export-as-gist/blob/master/LICENSE)
 
 ![](./media/context-menu.png)
